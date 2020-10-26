@@ -178,6 +178,10 @@
 			margin: 0 0 1rem 0;
 		}
 
+		h2.major {
+			width: 100%;
+		}
+
 		h4.due {
 			/* 	border-bottom: solid 1px #ffffff; */
 			width: -moz-max-content;
